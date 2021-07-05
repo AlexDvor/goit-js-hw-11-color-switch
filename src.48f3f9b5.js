@@ -564,4 +564,4 @@ const{func:t}=require("assert-plus"),{classBody:e}=require("babel-types"),n={sta
 },{"assert-plus":"VDee","babel-types":"Eq6v"}],"Focm":[function(require,module,exports) {
 "use strict";require("./sass/main.scss"),require("./js/index");
 },{"./sass/main.scss":"clu1","./js/index":"QvaY"}]},{},["Focm"], null)
-//# sourceMappingURL=/goit-js-hw-11-color-switch/src.0fa56ba1.js.map
+//# sourceMappingURL=/goit-js-hw-11-color-switch/src.48f3f9b5.js.map
