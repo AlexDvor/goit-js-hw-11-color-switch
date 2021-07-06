@@ -35,9 +35,10 @@ function onStartBtnClick() {
     }
     const body = document.querySelector('body')
     timerId = setInterval(() => {
-    const lengthArray = colors.length
+    const lengthArray = colors.length -1
     const randomIndexColor = randomIntegerFromInterval(0, lengthArray)
-    const randomColor = colors[randomIndexColor]
+        const randomColor = colors[randomIndexColor]
+        console.log(randomColor)
     body.style.backgroundColor = randomColor;
     isActiveBackColor = true
        
